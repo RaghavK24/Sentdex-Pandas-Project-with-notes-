@@ -14,6 +14,8 @@ This dataset includes county-level data from the 2016 US Presidential Election
 ### state_abbv0.csv :
 This dataset contains postal code for each state. This would be used for making sure that the abbreviation for states is the same in county_15 and pres16 variables in our code
 
+## Aim :
+
 The purpose of this project is to look at election data by county and see if there's a relationship between voting, minimum wage, and unemployment. We would be comparing vote percentage for US Presidential Election nominee Donald Trump by county and the minimum wage and unemployment rate for the respective counties.
 
 ## Result :

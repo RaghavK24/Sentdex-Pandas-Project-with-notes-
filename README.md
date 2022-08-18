@@ -1,6 +1,6 @@
 # US Presidential Election Correlation Project
 
-In this project 4 datasets are used :
+The purpose of this project is to look at election data by county and see if there's a relationship between voting, minimum wage, and unemployment. We would be comparing vote percentage for US Presidential Election nominee Donald Trump by county and the minimum wage and unemployment rate for the respective counties. The Code Breakdowns 1 and 2 entail the detailed explanation of the code and its working. In this project 4 datasets are used :
 
 ### Minimum Wage Data.csv :
 This dataset goes from 1968 to 2017, giving the minimum wage (lowest amount of money that employers can pay workers by the hour), by state.
@@ -13,10 +13,6 @@ This dataset includes county-level data from the 2016 US Presidential Election
 
 ### state_abbv0.csv :
 This dataset contains postal code for each state. This would be used for making sure that the abbreviation for states is the same in county_15 and pres16 variables in our code
-
-## Aim :
-
-The purpose of this project is to look at election data by county and see if there's a relationship between voting, minimum wage, and unemployment. We would be comparing vote percentage for US Presidential Election nominee Donald Trump by county and the minimum wage and unemployment rate for the respective counties.
 
 ## Result :
 
